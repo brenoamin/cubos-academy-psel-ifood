@@ -5,7 +5,3 @@ function solucao(numero) {
     }
     console.log("KABUM");    
     }
-    
-    function processData(input) {
-        solucao(parseInt(input, 10));
-    } 
